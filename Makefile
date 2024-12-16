@@ -35,8 +35,7 @@ PRINTF_SRCS       		=   ft_printf.c \
 							do_print.c
 
 UTILS_DIR          		=   utils/
-UTILS_SRCS         		=   printf_utils.c \
-							ft_atoi_mode.c
+UTILS_SRCS         		=   ft_atoi_mode.c
 
 ############################# HANDLE DIRECTORIES ##############################
 
