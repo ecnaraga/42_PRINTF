@@ -1,0 +1,3 @@
+[submodule "LIBFT"]
+	path = LIBFT
+	url = git@github.com:ecnaraga/LIBFT_42_ENRICHIE.git
