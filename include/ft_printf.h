@@ -16,8 +16,6 @@
 # include "../LIBFT/includes/libft.h"
 # include <stdarg.h>
 # include <stdint.h>
-# include <stdio.h>
-# include <unistd.h>
 
 typedef struct a_list
 {
